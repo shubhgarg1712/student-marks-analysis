@@ -1,5 +1,6 @@
-Student Performance Analysis & Outlier Detection
-Student marks analysis and outlier detection using Python, NumPy and Pandas
+# 📊 Student Performance Analysis & Outlier Detection
+
+This project analyzes student marks using Python, NumPy, and Pandas.
 # 📊 Student Performance Analysis & Outlier Detection
 
 This project analyzes student marks using **Python, NumPy, and Pandas**.
